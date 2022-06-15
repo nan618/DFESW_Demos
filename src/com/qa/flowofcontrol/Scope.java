@@ -13,6 +13,9 @@ public class Scope {
 	}
 	
 	public static void main(String[] args) {
+		// Method level scope
+		int age = 29;
+		
 //		methodOne();
 		System.out.println(message);
 		
