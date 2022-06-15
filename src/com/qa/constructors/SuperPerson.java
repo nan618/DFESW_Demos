@@ -16,5 +16,5 @@ public class SuperPerson extends Person {
 		return superPerson;
 	}
 	
-	int colarSize;
+	int colarSize = 14;
 }
