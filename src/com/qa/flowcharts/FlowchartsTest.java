@@ -3,8 +3,14 @@ package com.qa.flowcharts;
 public class FlowchartsTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		Flowcharts flowcharts = new Flowcharts();
+		System.out.println(flowcharts.f(5, 3,true));
+
+			}
+
+	
 
 	}
 
-}
+
