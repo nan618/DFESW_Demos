@@ -8,6 +8,7 @@ public class StringManipulation {
 		String thirdString = str1 +" " + str2;
 		System.out.println(thirdString); 
 		System.out.println(str2.toUpperCase()+", "+str1.toUpperCase());
+		
 	
 
 	}
