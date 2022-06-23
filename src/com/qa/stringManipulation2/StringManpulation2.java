@@ -12,21 +12,10 @@ public class StringManpulation2 {
 	public void q2(String input) {
 	    String str2 = "Today it was suning";
 	    String[] words = input.split(" ");
-	    for(String word:words)
-	{
+	    for(String word:words);
+	}
 	public void q3(String input) {
 		String[] words = input.split(" ");
 	}
-		System.out.println(word);
-		 
-
-		
-
-	
-	
-		
-	
-	
-		
 	
 }

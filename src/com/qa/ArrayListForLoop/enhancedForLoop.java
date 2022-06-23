@@ -1,11 +1,12 @@
 package com.qa.ArrayListForLoop;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class enhancedForLoop {
 	public void questionOne() {
 
-		List<String> arrayOfStrings = new ArrayList<>();
+		List<String> arrayOfStrings = new ArrayList<String>();
 
 		arrayOfStrings.add("Tom");
 
